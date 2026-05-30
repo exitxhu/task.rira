@@ -1,0 +1,6 @@
+@task.rira.client_HostAddress = http://localhost:5124
+
+GET {{task.rira.client_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

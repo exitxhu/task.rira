@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="readme.md" />
+  </Folder>
+  <Project Path="task.rira.client/task.rira.client.csproj" />
+  <Project Path="task.rira.sdk/task.rira.sdk.csproj" />
+  <Project Path="task.rira/task.rira.csproj" />
+</Solution>
