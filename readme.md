@@ -4,6 +4,10 @@
 
 This project is a high-level demonstration of a scalable service-oriented architecture. The implementation intentionally uses lightweight, in-process abstractions to showcase architectural concepts while keeping the code simple and easy to understand.
 
+Run both task.rira and task.rira.client and go to https://localhost:7248/scalar to test it.
+
+This demo may or may not work in container environment, please run it in windows and with Kestrel.
+
 ## Architecture
 
 ### Demo Components
