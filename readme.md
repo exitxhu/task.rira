@@ -100,7 +100,7 @@ Potential production features include:
 
 This project is intended as a conceptual demonstration rather than a production-ready implementation.
 
-The only use of AI in this project was formatting and improving this documentation. The architecture, implementation, and design decisions were created manually.
+The only use of AI in this project was formatting and improving this documentation and completing Test Controller. The architecture, implementation, and design decisions were created manually.
 
 
 
@@ -140,5 +140,5 @@ failuire scenario: Service A should be able to pause on demand
 visualization: a quick way to see what is happening inside
 benchmark: it's always nice to have
 
-the only usage of AI in this project was to format this document, nothing else
+the only usage of AI in this project was to format this document and Test Controller, nothing else
 -->
